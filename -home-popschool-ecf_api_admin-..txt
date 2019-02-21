@@ -1,0 +1,1 @@
+/home/popschool/ecf_api_admin/.env
