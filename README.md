@@ -2,21 +2,20 @@
 
 ## DESCRIPTION*
 
-* Projet fictif qui a pour but de valider un ecf en cours de formation (PopSchool Lens).
 * Fictional project that aims to validate an ecf during training (PopSchool Lens).
-* Création d'une API avec symfony.
 * Creating an API with symfony.
+* Creating an ADMIN with easyadmin
 
 ### PREREQUIS/REQUIREMENTS* Symfony 4.2.3
 
-* PHP 7.3 et dépendance (curl et zip)
+* PHP 7.3 & dépendencies (curl & zip)
 * composer
 
 ### INSTALLATION
 
-* Git clone https://github.com/youstine/ecf-api.git
-* Ouvrir un terminal dans le dossier cloné/Open a terminal in the cloned folder
-* Taper la commande/type the command
+* Git clone https://github.com/jordan62300/ecf-api-admin.git
+* Open a terminal in the cloned folder
+* type the command
 
  
 ```composer install``` 
